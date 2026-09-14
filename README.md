@@ -9,7 +9,7 @@
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen)]()
 
 **Author:** Uday Garg — Data Analytics | 
-[LinkedIn](www.linkedin.com/in/uday-garg-b08374295) · [GitHub](https://github.com/Udaygarg0034)
+[LinkedIn](https://www.linkedin.com/in/uday-garg-b08374295) · [GitHub](https://github.com/Udaygarg0034)
 
 ---
 
@@ -61,7 +61,7 @@ food-delivery-analytics/
 │   └── food_delivery_analytics_data.csv
 ├── notebook/
 │   └── food_delivery_analytics.ipynb
-├── images/
+├── images(png)/
 │   └── (exported chart PNGs)
 ├── README.md
 └── requirements.txt
