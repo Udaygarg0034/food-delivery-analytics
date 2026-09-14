@@ -40,13 +40,6 @@ This project analyzes **12,000 order-level records from a simulated food deliver
 
 > 💡 **Business takeaway:** Delivery ops should weight *traffic and weather conditions* into ETA calculations far more than distance alone — and marketing should stop assuming "premium = better," since the data shows no such link.
 
-## 📊 Sample Visuals
-
-| Delivery Time by Traffic Level | Correlation Matrix |
-|---|---|
-| ![Traffic Boxplot](images/traffic_boxplot.png) | ![Heatmap](images/correlation_heatmap.png) |
-
-*(export your charts as PNGs into `/images` — see instructions below)*
 
 ## 🛠️ Tech Stack
 
