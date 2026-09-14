@@ -1,0 +1,2 @@
+plt.savefig('../images/traffic_boxplot.png', dpi=150, bbox_inches='tight')
+plt.savefig('../images/correlation_heatmap.png', dpi=150, bbox_inches='tight')
