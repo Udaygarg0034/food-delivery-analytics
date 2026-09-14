@@ -8,7 +8,8 @@
 [![SciPy](https://img.shields.io/badge/SciPy-Hypothesis%20Testing-8CAAE6?logo=scipy&logoColor=white)](https://scipy.org/)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen)]()
 
-**Author:** Uday Garg — Data Analytics | [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/Udaygarg0034)
+**Author:** Uday Garg — Data Analytics | 
+[LinkedIn](www.linkedin.com/in/uday-garg-b08374295) · [GitHub](https://github.com/Udaygarg0034)
 
 ---
 
