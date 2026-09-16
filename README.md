@@ -37,11 +37,6 @@ This project analyzes **12,000 order-level records from a simulated food deliver
 
 > 💡 **Business takeaway:** Delivery ETAs should account for traffic and weather conditions, not just distance — and marketing shouldn't assume "premium = better," since price doesn't track with rating in this data.
 
-## 📊 Sample Visuals
-
-| Delivery Time by Traffic Level | Correlation Matrix |
-|---|---|
-| ![Traffic Boxplot](images/traffic_boxplot.png) | ![Heatmap](images/correlation_heatmap.png) |
 
 ## 🛠️ Tech Stack
 
